@@ -1,0 +1,44 @@
+C:\Users\IT SUPPORTER\source\repos\tst1\bin\Debug\net6.0-windows\tst1.exe
+C:\Users\IT SUPPORTER\source\repos\tst1\bin\Debug\net6.0-windows\tst1.deps.json
+C:\Users\IT SUPPORTER\source\repos\tst1\bin\Debug\net6.0-windows\tst1.runtimeconfig.json
+C:\Users\IT SUPPORTER\source\repos\tst1\bin\Debug\net6.0-windows\tst1.dll
+C:\Users\IT SUPPORTER\source\repos\tst1\bin\Debug\net6.0-windows\tst1.pdb
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\form2.g.cs
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1_MarkupCompile.cache
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1_MarkupCompile.lref
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\form2.baml
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.g.resources
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.AssemblyInfoInputs.cache
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.AssemblyInfo.cs
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.csproj.CoreCompileInputs.cache
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.dll
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\refint\tst1.dll
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.pdb
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\tst1.genruntimeconfig.cache
+C:\Users\IT SUPPORTER\source\repos\tst1\obj\Debug\net6.0-windows\ref\tst1.dll
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\bin\Debug\net6.0-windows\tst1.exe
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\bin\Debug\net6.0-windows\tst1.deps.json
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\bin\Debug\net6.0-windows\tst1.runtimeconfig.json
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\bin\Debug\net6.0-windows\tst1.dll
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\bin\Debug\net6.0-windows\tst1.pdb
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\form2.g.cs
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1_MarkupCompile.cache
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1_MarkupCompile.lref
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\form2.baml
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.g.resources
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.AssemblyInfoInputs.cache
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.AssemblyInfo.cs
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.csproj.CoreCompileInputs.cache
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.dll
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\refint\tst1.dll
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.pdb
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\tst1.genruntimeconfig.cache
+C:\Users\Minh Minh\Downloads\tst1 (1)\tst1\obj\Debug\net6.0-windows\ref\tst1.dll
